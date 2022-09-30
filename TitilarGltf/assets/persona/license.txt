@@ -1,0 +1,11 @@
+Model Information:
+* title:	Persona ver.
+* source:	https://sketchfab.com/3d-models/persona-ver-3a08d40d0fc7478fa8a56a108b0ec68c
+* author:	pedromacedoarfab (https://sketchfab.com/pedromacedoarfab)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Persona ver." (https://sketchfab.com/3d-models/persona-ver-3a08d40d0fc7478fa8a56a108b0ec68c) by pedromacedoarfab (https://sketchfab.com/pedromacedoarfab) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
